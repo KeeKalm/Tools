@@ -53,7 +53,8 @@
   [Free Download Manager](https://www.freedownloadmanager.org/)
 * IMD Internet Download Manager
   [Internet Download Manager](http://www.internetdownloadmanager.com/)
-
+* BitComet
+  [BitComet](https://www.bitcomet.com)
 
 
 # 系统测试软件
@@ -73,5 +74,12 @@
 * Hex Editor
   16进制打开
 
+
+
+# 其他工具
+* Everything (基于名称快速定位文件和文件夹)
+  [Everything](https://www.voidtools.com)
+* Snipaste (截图 + 贴图)
+  [Snipaste](https://www.snipaste.com/)
 
 
