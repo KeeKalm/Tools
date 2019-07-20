@@ -76,6 +76,21 @@
 
 
 
+# 终端
+
+## win 上更优化的 命令行终端
+
+* cmder
+
+  [cmder][https://cmder.net/]
+
+## ssh
+
+* xsell
+* MobaXterm
+
+
+
 # 其他工具
 * Everything (基于名称快速定位文件和文件夹)
   [Everything](https://www.voidtools.com)
