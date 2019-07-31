@@ -1,23 +1,20 @@
 
-# Markdown Edit
-* MarkdownEdit
-  [MarkdownEdit](http://markdownedit.com/)
-* Typora
-  [Typora](https://typora.io/)
+## Markdown Edit
+* [MarkdownEdit](http://markdownedit.com/)
+* [Typora](https://typora.io/)
 
 
 
-# TODO
+## TODO
 
-* Ao
+* [Ao](https://klaussinani.github.io/ao/)
   第三方开源微软 To-Do 桌面客户端
-  [Ao](https://klaussinani.github.io/ao/)
 
 
 
-# 文本编辑器
-* ATOM
-  [ATOM主页](https://atom.io)
+
+## 文本编辑器
+* [ATOM](https://atom.io)
 
 * notepad++
 
@@ -34,31 +31,27 @@
 
 
 
-# 下载工具
+## 下载工具
 
-## 百度下载
+### 百度下载
 
-* PanDownload干掉百度网盘官方限制
-  [PanDownload主页](https://pandownload.com/)
+* [PanDownload主页](https://pandownload.com/)
   [PanDownload 52pojie](https://www.52pojie.cn/thread-644721-1-1.html)
 
-* 度盘下载器（已停止更新）
-  [度盘下载器论坛](http://www.linesoft.top/bbs/forum.php)
+* [度盘下载器论坛](http://www.linesoft.top/bbs/forum.php)
 
-* 速盘
-  [速盘主页](https://www.speedpan.com/)
+* [速盘主页](https://www.speedpan.com/)
 
-## 其他下载
+### 其他下载
 
-* FMD Free Download Manager
-  [Free Download Manager](https://www.freedownloadmanager.org/)
-* IMD Internet Download Manager
-  [Internet Download Manager](http://www.internetdownloadmanager.com/)
-* BitComet
-  [BitComet](https://www.bitcomet.com)
+* [FMD - Free Download Manager](https://www.freedownloadmanager.org/)
+* [IMD - Internet Download Manager](http://www.internetdownloadmanager.com/)
+* [BitComet](https://www.bitcomet.com)
 
 
-# 系统测试软件
+
+
+## 系统测试软件
 * Cpu_z
 * Gpu_z
 * HD Tune
@@ -66,7 +59,7 @@
 
 
 
-# Notepad++ 插件
+## Notepad++ 插件
 [Npp Plugin Central](http://docs.notepad-plus-plus.org/index.php/Plugin_Central)
 [Npp plugins](https://sourceforge.net/projects/npp-plugins/files/?source=navbar)
 
@@ -77,25 +70,29 @@
 
 
 
-# 终端
+## 终端
 
-## win 上更优化的 命令行终端
+### win 上更优化的 命令行终端
 
-* cmder
+* [cmder][https://cmder.net/]
 
-  [cmder][https://cmder.net/]
-
-## ssh
+### ssh
 
 * xsell
 * MobaXterm
 
+### win 上 linux 一些环境
+
+* [mingw64][https://sourceforge.net/projects/mingw-w64/files/]
+* [Cygwin][https://www.cygwin.com/]
 
 
-# 其他工具
-* Everything (基于名称快速定位文件和文件夹)
-  [Everything](https://www.voidtools.com)
-* Snipaste (截图 + 贴图)
-  [Snipaste](https://www.snipaste.com/)
 
+## 其他工具
+* [Everything](https://www.voidtools.com)
+  
+  (基于名称快速定位文件和文件夹)
+  
+* [Snipaste](https://www.snipaste.com/) 
 
+  (截图 + 贴图)
