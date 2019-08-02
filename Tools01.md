@@ -100,3 +100,12 @@
 * [ATNote][http://atnotes.free.fr/]
 
   桌面便签
+  
+* [QTTabBar][http://qttabbar.sourceforge.net/]
+
+  win资源管理器分页
+
+* [Multrin][https://github.com/sentialx/multrin/releases]
+
+  将不同应用程序拖放合并起来，组成多标签页窗口的开源工具
+
