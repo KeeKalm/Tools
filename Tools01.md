@@ -12,25 +12,6 @@
 
 
 
-
-## 文本编辑器
-* [ATOM](https://atom.io)
-
-* notepad++
-
-* UltraEdit
-
-
-
-# 代码管理工具
-
-* source insight
-* TortoiseGit
-* sourcetree
-* beyond compare
-
-
-
 ## 下载工具
 
 ### 百度下载
@@ -70,24 +51,6 @@
 
 
 
-## 终端
-
-### win 上更优化的 命令行终端
-
-* [cmder][https://cmder.net/]
-
-### ssh
-
-* xsell
-* MobaXterm
-
-### win 上 linux 一些环境
-
-* [mingw64][https://sourceforge.net/projects/mingw-w64/files/]
-* [Cygwin][https://www.cygwin.com/]
-
-
-
 ## 其他工具
 * [Everything](https://www.voidtools.com)
   
@@ -108,7 +71,3 @@
 * [Multrin][https://github.com/sentialx/multrin/releases]
 
   将不同应用程序拖放合并起来，组成多标签页窗口的开源工具
-
-* [zeal][https://zealdocs.org/]
-
-  一款面向软件开发人员的离线文档浏览器
